@@ -7,7 +7,7 @@ import openai
 import os
 
 # Set up OpenAI GPT API credentials
-openai.api_key = 'Add Your OPen AI API Here'
+openai.api_key = 'Add Your Open AI API Here'
 
 class TracerouteGPTGUI:
     def __init__(self, root):
