@@ -6,7 +6,7 @@ from tkinter import ttk
 import openai
 
 # Set up OpenAI GPT API credentials
-openai.api_key = 'Add Your OPen AI API Here'
+openai.api_key = 'Add Your Open AI API Here'
 
 class NmapGPTGUI:
     def __init__(self, root):
