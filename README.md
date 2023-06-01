@@ -38,5 +38,4 @@ M.E.A.N
 =*= Feel free to use in your organization. 
 =*= Donations are greatly appreciated for our work and for future research and development to empower the Cyber professional.
 
-Donate here:  https://www.paypal.com/donate/?business=EPDA57MT68W6S&no_recurring=0&item_name=SOCBox+is+a+single+click+GUI+interface+for+the+execution+of+scripts++**with+Chat+GPT+API+integration**&currency_code=USD
-
+Donate here: https://www.paypal.com/donate/?business=EPDA57MT68W6S&no_recurring=0&item_name=Donate+to+SOCBox&currency_code=USD
