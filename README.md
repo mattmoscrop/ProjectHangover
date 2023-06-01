@@ -33,7 +33,7 @@ M.E.A.N
 =*= Single GUI with buttons that contain commonly used scripts that can be executed with a push of a button.  
 =*= Additional scripts can also be added.  
 =*= Scripts can be removed if not needed.  
-=*= GPT API integration if the SOC watchstander needs help with tasks or to quickly look something up.
+=*= Chat GPT API integration if the SOC watchstander needs help with tasks or to quickly look something up.
 
 =*= Feel free to use in your organization. 
 =*= Donations are greatly appreciated for our work and for future research and development to empower the Cyber professional.
